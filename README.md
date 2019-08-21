@@ -1,2 +1,0 @@
-# datavizclass
-HW Assignments completed
